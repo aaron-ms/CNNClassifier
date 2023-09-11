@@ -16,10 +16,12 @@ list_of_files = [
     f'src/{project_name}/entity/__init__.py',
     f'src/{project_name}/constants/__init__.py',
     'research/trails.ipynb',
-    'config/config.yaml'
+    'research/stage_01.ipynb',
+    'config/config.yaml',
     'params.yaml',
     'requirements.txt',
-    'setup.py'
+    'setup.py',
+    'main.py',
 ]
 
 for filepath in list_of_files:
