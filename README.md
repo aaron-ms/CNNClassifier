@@ -10,3 +10,5 @@
 6. Update the components (data ingestion, model training, model evaluation)
 7. Update the pipeline
 8. Update the main.py
+
+tensorboard --logdir=artifacts/prepare_callbacks/tensorboard_log_dir/
